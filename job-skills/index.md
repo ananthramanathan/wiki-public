@@ -7,7 +7,7 @@ Learning modules built from job descriptions and role research. Each role is bro
 
 ## Roles
 
-- [AI Agent Deployer](AI%20Agent%20Deployer.md) — identifies high-leverage workflows, redesigns them using AI agents, deploys working systems, and continuously improves performance
+- [AI Agent Deployer](ai-agent-deployer.md) — identifies high-leverage workflows, redesigns them using AI agents, deploys working systems, and continuously improves performance
 
 ## Templates
 
