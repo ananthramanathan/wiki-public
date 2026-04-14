@@ -49,3 +49,19 @@ Append with today's date as a heading in this format:
 - Always git pull before writing anything
 - Commit message format: "wiki: update [topic-name]"
 - Never delete existing content — only append or update TL;DR
+
+## CRITICAL: Handling source documents
+When a source document (docx, pdf, notes, chat export, or any format)
+is provided as the basis for a wiki entry:
+
+- Recreate the content COMPLETELY and FAITHFULLY in markdown format
+- Every section, data point, timeline entry, table row, and detail
+  must be preserved — nothing omitted, nothing compressed
+- Do NOT summarise, condense, or make judgment calls about what is
+  important enough to include
+- The TL;DR at the top is the only summary — everything below it
+  is the full record
+- This rule is absolute — applies to all content types including
+  medical records, research notes, financial data, and project logs
+- When in doubt: include it. Omitting content from a source document
+  is never acceptable without explicit instruction from the user
