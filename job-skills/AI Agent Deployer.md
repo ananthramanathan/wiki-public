@@ -1,8 +1,3 @@
----
-layout: default
-title: AI Agent Deployer
----
-
 # AI Agent Deployer
 
 #### Original description that sparked this role
