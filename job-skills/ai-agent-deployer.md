@@ -1,3 +1,9 @@
+---
+layout: default
+title: AI Agent Deployer
+permalink: /job-skills/ai-agent-deployer/
+---
+
 # AI Agent Deployer
 
 #### Original description that sparked this role
