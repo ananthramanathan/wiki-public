@@ -6,3 +6,4 @@ Comparative roadmaps for systems I want to build, synthesised from bookmarked im
 ## Topics
 
 - [AI Chief of Staff](ai-chief-of-staff/index.md)
+- AI GTM playbook (ai-gtm-playbook/) — AI agents across the GTM stack. Captures organised by surface: sales/, marketing/, revops/, orchestrators/. Synthesis pending at surface level.
