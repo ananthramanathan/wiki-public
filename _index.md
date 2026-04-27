@@ -6,3 +6,4 @@ _Last updated: 2026-04-14_
 - [AI learnings](ai-learnings/index.md) — running log of AI tool learnings
 - [How I did X](how-i-did-x/index.md) — shareable how-tos on demand
 - [Job skills](job-skills/index.md) — role and domain learning modules
+- [System architectures](system-architectures/index.md) — comparative roadmaps for systems I want to build (AI marketing, AI Chief of Staff, etc.)

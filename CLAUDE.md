@@ -50,6 +50,9 @@ Append with today's date as a heading in this format:
 - Commit message format: "wiki: update [topic-name]"
 - Never delete existing content — only append or update TL;DR
 
+### Exception for system-architectures topics
+Topics under `system-architectures/` may contain a `captures/` subfolder alongside `index.md`. Captures are raw single-source preservations; `index.md` is the synthesised roadmap. This is the only place multiple files per topic folder are allowed.
+
 ## CRITICAL: Handling source documents
 When a source document (docx, pdf, notes, chat export, or any format)
 is provided as the basis for a wiki entry:
